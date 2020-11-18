@@ -1,0 +1,23 @@
+{
+  "name": "upload-wechat-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houzehang/update-wechat-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houzehang/update-wechat-code/issues"
+  },
+  "homepage": "https://github.com/houzehang/update-wechat-code#readme"
+}
